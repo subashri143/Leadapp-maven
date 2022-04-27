@@ -43,6 +43,4 @@ public interface Lead extends Domain{
 	String getStatus();
 	
 	void setStatus(String status);	
-
-
 }
